@@ -1,0 +1,20 @@
+[
+    {
+        "image" : "./Assets/img/product.jpg",
+        "name" : "Product1",
+        "description" : "lorem ipsum lorem ipsum",
+        "price" : 99.99
+    },
+    {
+        "image" : "./Assets/img/product.jpg",
+        "name" : "Product2",
+        "description" : "lorem ipsum lorem ipsum",
+        "price" : 99.99
+    },
+    {
+        "image" : "./Assets/img/product.jpg",
+        "name" : "Product3",
+        "description" : "lorem ipsum lorem ipsum",
+        "price" : 99.99
+    }
+]
